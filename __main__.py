@@ -1,4 +1,4 @@
-from input_manager.io_manager import *
+from file_manager.io_manager import *
 
 TRAINING_PATH = "./training/data/"
 WEIGHT_MATRIX_PATH = "./weight_matrix/data/"
